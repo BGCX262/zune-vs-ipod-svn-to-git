@@ -1,0 +1,10 @@
+#labels Zune,ipod,xna
+#A quick list of known bugs. One-sentence summary of this page.
+
+= Introduction =
+
+BUGS
+
+
+= Details =
+If you know of any bugs dealing with the latest Zune vs. Ipod game, please post here.
